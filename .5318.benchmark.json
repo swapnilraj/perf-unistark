@@ -1,0 +1,7714 @@
+{
+  "warp_output/contracts/UniswapV3Factory__WC__UniswapV3Factory.cairo": [
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 17,
+            "range_check_builtin": 36
+          },
+          "n_memory_holes": 122,
+          "n_steps": 1366
+        },
+        "actual_fee": 1993100000000000
+      }
+    }
+  ],
+  "warp_output/contracts/test/TestERC20__WC__TestERC20.cairo": [
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 41,
+          "n_steps": 424
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 41,
+          "n_steps": 424
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 41,
+          "n_steps": 424
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 41,
+          "n_steps": 424
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 41,
+          "n_steps": 424
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 6,
+            "range_check_builtin": 18
+          },
+          "n_memory_holes": 50,
+          "n_steps": 543
+        },
+        "actual_fee": 511900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 6,
+            "range_check_builtin": 18
+          },
+          "n_memory_holes": 50,
+          "n_steps": 543
+        },
+        "actual_fee": 511900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 41,
+          "n_steps": 424
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 41,
+          "n_steps": 424
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 41,
+          "n_steps": 424
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 6,
+            "range_check_builtin": 18
+          },
+          "n_memory_holes": 52,
+          "n_steps": 539
+        },
+        "actual_fee": 511800000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 42,
+          "n_steps": 422
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 10,
+            "range_check_builtin": 35
+          },
+          "n_memory_holes": 112,
+          "n_steps": 978
+        },
+        "actual_fee": 1131900000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4,
+            "range_check_builtin": 15
+          },
+          "n_memory_holes": 41,
+          "n_steps": 424
+        },
+        "actual_fee": 143400000000000
+      }
+    },
+    {
+      "balanceOf": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 6,
+            "range_check_builtin": 18
+          },
+          "n_memory_holes": 50,
+          "n_steps": 543
+        },
+        "actual_fee": 511900000000000
+      }
+    }
+  ],
+  "warp_output/contracts/test/TestUniswapV3Callee__WC__TestUniswapV3Callee.cairo": [
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 145,
+            "range_check_builtin": 14625,
+            "bitwise_builtin": 732
+          },
+          "n_memory_holes": 13991,
+          "n_steps": 176429
+        },
+        "actual_fee": 6405200000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 13424,
+            "bitwise_builtin": 657
+          },
+          "n_memory_holes": 13292,
+          "n_steps": 159127
+        },
+        "actual_fee": 5823000000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 169,
+            "range_check_builtin": 16563,
+            "bitwise_builtin": 916
+          },
+          "n_memory_holes": 15942,
+          "n_steps": 204070
+        },
+        "actual_fee": 7537500000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 157,
+            "range_check_builtin": 16566,
+            "bitwise_builtin": 857
+          },
+          "n_memory_holes": 16121,
+          "n_steps": 196197
+        },
+        "actual_fee": 7006900000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 12421,
+            "bitwise_builtin": 619
+          },
+          "n_memory_holes": 12204,
+          "n_steps": 151736
+        },
+        "actual_fee": 5780600000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 121,
+            "range_check_builtin": 11386,
+            "bitwise_builtin": 544
+          },
+          "n_memory_holes": 11512,
+          "n_steps": 136348
+        },
+        "actual_fee": 5208100000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 11803,
+            "bitwise_builtin": 607
+          },
+          "n_memory_holes": 11889,
+          "n_steps": 146232
+        },
+        "actual_fee": 5751600000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 121,
+            "range_check_builtin": 10937,
+            "bitwise_builtin": 535
+          },
+          "n_memory_holes": 11275,
+          "n_steps": 132556
+        },
+        "actual_fee": 5187900000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9420,
+            "bitwise_builtin": 406
+          },
+          "n_memory_holes": 9585,
+          "n_steps": 114788
+        },
+        "actual_fee": 4598500000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7520,
+            "bitwise_builtin": 324
+          },
+          "n_memory_holes": 8206,
+          "n_steps": 92705
+        },
+        "actual_fee": 3620300000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 8919,
+            "bitwise_builtin": 401
+          },
+          "n_memory_holes": 9321,
+          "n_steps": 110469
+        },
+        "actual_fee": 4575600000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7880,
+            "bitwise_builtin": 328
+          },
+          "n_memory_holes": 8418,
+          "n_steps": 95869
+        },
+        "actual_fee": 3637200000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 17746,
+            "bitwise_builtin": 740
+          },
+          "n_memory_holes": 14215,
+          "n_steps": 191622
+        },
+        "actual_fee": 5990100000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 145,
+            "range_check_builtin": 19685,
+            "bitwise_builtin": 833
+          },
+          "n_memory_holes": 14952,
+          "n_steps": 214225
+        },
+        "actual_fee": 6599000000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9813,
+            "bitwise_builtin": 421
+          },
+          "n_memory_holes": 10039,
+          "n_steps": 118217
+        },
+        "actual_fee": 4617900000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7981,
+            "bitwise_builtin": 337
+          },
+          "n_memory_holes": 8653,
+          "n_steps": 97206
+        },
+        "actual_fee": 4013800000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9242,
+            "bitwise_builtin": 414
+          },
+          "n_memory_holes": 9689,
+          "n_steps": 113327
+        },
+        "actual_fee": 4591700000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 8230,
+            "bitwise_builtin": 334
+          },
+          "n_memory_holes": 8719,
+          "n_steps": 99289
+        },
+        "actual_fee": 4024500000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9215,
+            "bitwise_builtin": 413
+          },
+          "n_memory_holes": 9583,
+          "n_steps": 112994
+        },
+        "actual_fee": 4589500000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7769,
+            "bitwise_builtin": 331
+          },
+          "n_memory_holes": 8433,
+          "n_steps": 95161
+        },
+        "actual_fee": 4002400000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 8903,
+            "bitwise_builtin": 407
+          },
+          "n_memory_holes": 9424,
+          "n_steps": 110170
+        },
+        "actual_fee": 4574600000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7626,
+            "bitwise_builtin": 328
+          },
+          "n_memory_holes": 8352,
+          "n_steps": 94049
+        },
+        "actual_fee": 3996500000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9490,
+            "bitwise_builtin": 408
+          },
+          "n_memory_holes": 9663,
+          "n_steps": 115362
+        },
+        "actual_fee": 4601800000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7520,
+            "bitwise_builtin": 324
+          },
+          "n_memory_holes": 8210,
+          "n_steps": 92697
+        },
+        "actual_fee": 3620300000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 8989,
+            "bitwise_builtin": 403
+          },
+          "n_memory_holes": 9399,
+          "n_steps": 111043
+        },
+        "actual_fee": 4578800000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7880,
+            "bitwise_builtin": 328
+          },
+          "n_memory_holes": 8422,
+          "n_steps": 95861
+        },
+        "actual_fee": 3637200000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 8922,
+            "bitwise_builtin": 354
+          },
+          "n_memory_holes": 8715,
+          "n_steps": 103933
+        },
+        "actual_fee": 4047700000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 11495,
+            "bitwise_builtin": 458
+          },
+          "n_memory_holes": 10158,
+          "n_steps": 130348
+        },
+        "actual_fee": 4679200000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9778,
+            "bitwise_builtin": 420
+          },
+          "n_memory_holes": 10004,
+          "n_steps": 117921
+        },
+        "actual_fee": 4616300000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7981,
+            "bitwise_builtin": 337
+          },
+          "n_memory_holes": 8655,
+          "n_steps": 97201
+        },
+        "actual_fee": 4013700000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9207,
+            "bitwise_builtin": 413
+          },
+          "n_memory_holes": 9654,
+          "n_steps": 113032
+        },
+        "actual_fee": 4590100000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 9357,
+            "bitwise_builtin": 356
+          },
+          "n_memory_holes": 9008,
+          "n_steps": 107877
+        },
+        "actual_fee": 4068900000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9180,
+            "bitwise_builtin": 412
+          },
+          "n_memory_holes": 9548,
+          "n_steps": 112699
+        },
+        "actual_fee": 4587900000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7769,
+            "bitwise_builtin": 331
+          },
+          "n_memory_holes": 8435,
+          "n_steps": 95157
+        },
+        "actual_fee": 4002400000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 8868,
+            "bitwise_builtin": 406
+          },
+          "n_memory_holes": 9389,
+          "n_steps": 109875
+        },
+        "actual_fee": 4572900000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7626,
+            "bitwise_builtin": 328
+          },
+          "n_memory_holes": 8354,
+          "n_steps": 94045
+        },
+        "actual_fee": 3996500000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9455,
+            "bitwise_builtin": 407
+          },
+          "n_memory_holes": 9628,
+          "n_steps": 115067
+        },
+        "actual_fee": 4600100000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7520,
+            "bitwise_builtin": 324
+          },
+          "n_memory_holes": 8212,
+          "n_steps": 92693
+        },
+        "actual_fee": 3620300000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 8954,
+            "bitwise_builtin": 402
+          },
+          "n_memory_holes": 9364,
+          "n_steps": 110748
+        },
+        "actual_fee": 4577200000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 9007,
+            "bitwise_builtin": 350
+          },
+          "n_memory_holes": 8711,
+          "n_steps": 104449
+        },
+        "actual_fee": 3681600000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 8922,
+            "bitwise_builtin": 354
+          },
+          "n_memory_holes": 8717,
+          "n_steps": 103929
+        },
+        "actual_fee": 4047700000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 11460,
+            "bitwise_builtin": 457
+          },
+          "n_memory_holes": 10123,
+          "n_steps": 130053
+        },
+        "actual_fee": 4677500000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9629,
+            "bitwise_builtin": 421
+          },
+          "n_memory_holes": 9828,
+          "n_steps": 116727
+        },
+        "actual_fee": 4609400000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7949,
+            "bitwise_builtin": 338
+          },
+          "n_memory_holes": 8620,
+          "n_steps": 96947
+        },
+        "actual_fee": 4012300000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7837,
+            "bitwise_builtin": 326
+          },
+          "n_memory_holes": 8454,
+          "n_steps": 96008
+        },
+        "actual_fee": 4006800000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 801,
+            "range_check_builtin": 164887,
+            "bitwise_builtin": 7497
+          },
+          "n_memory_holes": 108864,
+          "n_steps": 1674042
+        },
+        "actual_fee": 41420200000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9629,
+            "bitwise_builtin": 421
+          },
+          "n_memory_holes": 9828,
+          "n_steps": 116727
+        },
+        "actual_fee": 4609400000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7837,
+            "bitwise_builtin": 326
+          },
+          "n_memory_holes": 8454,
+          "n_steps": 96008
+        },
+        "actual_fee": 4006800000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 8265,
+            "bitwise_builtin": 335
+          },
+          "n_memory_holes": 8730,
+          "n_steps": 99054
+        },
+        "actual_fee": 3654700000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7921,
+            "bitwise_builtin": 340
+          },
+          "n_memory_holes": 8577,
+          "n_steps": 96041
+        },
+        "actual_fee": 3638900000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7914,
+            "bitwise_builtin": 331
+          },
+          "n_memory_holes": 8525,
+          "n_steps": 95972
+        },
+        "actual_fee": 3638300000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 8281,
+            "bitwise_builtin": 344
+          },
+          "n_memory_holes": 8789,
+          "n_steps": 99205
+        },
+        "actual_fee": 3655700000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 121,
+            "range_check_builtin": 14343,
+            "bitwise_builtin": 587
+          },
+          "n_memory_holes": 11907,
+          "n_steps": 159255
+        },
+        "actual_fee": 5324600000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 11553,
+            "bitwise_builtin": 463
+          },
+          "n_memory_holes": 10181,
+          "n_steps": 130798
+        },
+        "actual_fee": 4681500000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 8257,
+            "bitwise_builtin": 336
+          },
+          "n_memory_holes": 8798,
+          "n_steps": 100003
+        },
+        "actual_fee": 4028500000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9293,
+            "bitwise_builtin": 436
+          },
+          "n_memory_holes": 9735,
+          "n_steps": 114398
+        },
+        "actual_fee": 4597300000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 801,
+            "range_check_builtin": 96517,
+            "bitwise_builtin": 6227
+          },
+          "n_memory_holes": 85763,
+          "n_steps": 1175789
+        },
+        "actual_fee": 39794600000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 8136,
+            "bitwise_builtin": 341
+          },
+          "n_memory_holes": 8715,
+          "n_steps": 99138
+        },
+        "actual_fee": 4023700000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 9293,
+            "bitwise_builtin": 436
+          },
+          "n_memory_holes": 9735,
+          "n_steps": 114398
+        },
+        "actual_fee": 4597300000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 8136,
+            "bitwise_builtin": 341
+          },
+          "n_memory_holes": 8715,
+          "n_steps": 99138
+        },
+        "actual_fee": 4023700000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 8229,
+            "bitwise_builtin": 338
+          },
+          "n_memory_holes": 8743,
+          "n_steps": 99109
+        },
+        "actual_fee": 3655000000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7853,
+            "bitwise_builtin": 342
+          },
+          "n_memory_holes": 8559,
+          "n_steps": 95953
+        },
+        "actual_fee": 3638300000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7878,
+            "bitwise_builtin": 334
+          },
+          "n_memory_holes": 8538,
+          "n_steps": 96027
+        },
+        "actual_fee": 3638600000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 8213,
+            "bitwise_builtin": 346
+          },
+          "n_memory_holes": 8771,
+          "n_steps": 99117
+        },
+        "actual_fee": 3655200000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 121,
+            "range_check_builtin": 14508,
+            "bitwise_builtin": 610
+          },
+          "n_memory_holes": 12046,
+          "n_steps": 160739
+        },
+        "actual_fee": 5332700000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 11606,
+            "bitwise_builtin": 482
+          },
+          "n_memory_holes": 10349,
+          "n_steps": 131745
+        },
+        "actual_fee": 4687100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 11298,
+            "bitwise_builtin": 558
+          },
+          "n_memory_holes": 11812,
+          "n_steps": 138896
+        },
+        "actual_fee": 5470100000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9578,
+            "bitwise_builtin": 466
+          },
+          "n_memory_holes": 10298,
+          "n_steps": 118369
+        },
+        "actual_fee": 5113200000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 10572,
+            "bitwise_builtin": 546
+          },
+          "n_memory_holes": 11371,
+          "n_steps": 132587
+        },
+        "actual_fee": 5436300000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9715,
+            "bitwise_builtin": 465
+          },
+          "n_memory_holes": 10361,
+          "n_steps": 119609
+        },
+        "actual_fee": 5119700000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 10732,
+            "bitwise_builtin": 549
+          },
+          "n_memory_holes": 11374,
+          "n_steps": 133861
+        },
+        "actual_fee": 5442700000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9401,
+            "bitwise_builtin": 461
+          },
+          "n_memory_holes": 10115,
+          "n_steps": 116615
+        },
+        "actual_fee": 5103500000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 10267,
+            "bitwise_builtin": 540
+          },
+          "n_memory_holes": 11137,
+          "n_steps": 129697
+        },
+        "actual_fee": 5420700000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9105,
+            "bitwise_builtin": 455
+          },
+          "n_memory_holes": 9956,
+          "n_steps": 114163
+        },
+        "actual_fee": 5090400000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 11158,
+            "bitwise_builtin": 554
+          },
+          "n_memory_holes": 11658,
+          "n_steps": 137738
+        },
+        "actual_fee": 5463500000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9438,
+            "bitwise_builtin": 462
+          },
+          "n_memory_holes": 10156,
+          "n_steps": 117199
+        },
+        "actual_fee": 5106600000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 10501,
+            "bitwise_builtin": 544
+          },
+          "n_memory_holes": 11297,
+          "n_steps": 131976
+        },
+        "actual_fee": 5432900000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9645,
+            "bitwise_builtin": 463
+          },
+          "n_memory_holes": 10290,
+          "n_steps": 119023
+        },
+        "actual_fee": 5116400000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 11681,
+            "bitwise_builtin": 506
+          },
+          "n_memory_holes": 10684,
+          "n_steps": 133976
+        },
+        "actual_fee": 5193100000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 14139,
+            "bitwise_builtin": 616
+          },
+          "n_memory_holes": 12236,
+          "n_steps": 159804
+        },
+        "actual_fee": 5576700000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 11594,
+            "bitwise_builtin": 563
+          },
+          "n_memory_holes": 11958,
+          "n_steps": 141718
+        },
+        "actual_fee": 5484900000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9713,
+            "bitwise_builtin": 471
+          },
+          "n_memory_holes": 10389,
+          "n_steps": 119780
+        },
+        "actual_fee": 5120700000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 10902,
+            "bitwise_builtin": 552
+          },
+          "n_memory_holes": 11566,
+          "n_steps": 135660
+        },
+        "actual_fee": 5452700000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9885,
+            "bitwise_builtin": 471
+          },
+          "n_memory_holes": 10480,
+          "n_steps": 121321
+        },
+        "actual_fee": 5128800000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 11593,
+            "bitwise_builtin": 563
+          },
+          "n_memory_holes": 11964,
+          "n_steps": 141685
+        },
+        "actual_fee": 5484800000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9712,
+            "bitwise_builtin": 471
+          },
+          "n_memory_holes": 10395,
+          "n_steps": 119747
+        },
+        "actual_fee": 5120500000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 10901,
+            "bitwise_builtin": 552
+          },
+          "n_memory_holes": 11572,
+          "n_steps": 135627
+        },
+        "actual_fee": 5452500000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 9884,
+            "bitwise_builtin": 471
+          },
+          "n_memory_holes": 10486,
+          "n_steps": 121288
+        },
+        "actual_fee": 5128700000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 105,
+            "range_check_builtin": 9501,
+            "bitwise_builtin": 432
+          },
+          "n_memory_holes": 9956,
+          "n_steps": 116156
+        },
+        "actual_fee": 4116300000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 7401,
+            "bitwise_builtin": 343
+          },
+          "n_memory_holes": 8229,
+          "n_steps": 92450
+        },
+        "actual_fee": 3373700000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 105,
+            "range_check_builtin": 9000,
+            "bitwise_builtin": 427
+          },
+          "n_memory_holes": 9692,
+          "n_steps": 111837
+        },
+        "actual_fee": 4093400000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 7761,
+            "bitwise_builtin": 347
+          },
+          "n_memory_holes": 8441,
+          "n_steps": 95614
+        },
+        "actual_fee": 3390600000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 129,
+            "range_check_builtin": 11851,
+            "bitwise_builtin": 512
+          },
+          "n_memory_holes": 10806,
+          "n_steps": 135685
+        },
+        "actual_fee": 5202300000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 139,
+            "range_check_builtin": 14470,
+            "bitwise_builtin": 622
+          },
+          "n_memory_holes": 12425,
+          "n_steps": 162912
+        },
+        "actual_fee": 5593200000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4291,
+            "range_check_builtin": 546153,
+            "bitwise_builtin": 35237
+          },
+          "n_memory_holes": 463124,
+          "n_steps": 6575666
+        },
+        "actual_fee": 219156200000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4281,
+            "range_check_builtin": 609394,
+            "bitwise_builtin": 36180
+          },
+          "n_memory_holes": 534826,
+          "n_steps": 6926741
+        },
+        "actual_fee": 220118400000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4291,
+            "range_check_builtin": 492750,
+            "bitwise_builtin": 34190
+          },
+          "n_memory_holes": 435899,
+          "n_steps": 6107862
+        },
+        "actual_fee": 217816000000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 4281,
+            "range_check_builtin": 556160,
+            "bitwise_builtin": 35136
+          },
+          "n_memory_holes": 507679,
+          "n_steps": 6460649
+        },
+        "actual_fee": 218782100000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 163,
+            "range_check_builtin": 13685,
+            "bitwise_builtin": 742
+          },
+          "n_memory_holes": 13735,
+          "n_steps": 169988
+        },
+        "actual_fee": 6619500000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 153,
+            "range_check_builtin": 12604,
+            "bitwise_builtin": 661
+          },
+          "n_memory_holes": 12874,
+          "n_steps": 153783
+        },
+        "actual_fee": 6287400000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 163,
+            "range_check_builtin": 12914,
+            "bitwise_builtin": 727
+          },
+          "n_memory_holes": 13342,
+          "n_steps": 163144
+        },
+        "actual_fee": 6583300000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 153,
+            "range_check_builtin": 12002,
+            "bitwise_builtin": 649
+          },
+          "n_memory_holes": 12559,
+          "n_steps": 148651
+        },
+        "actual_fee": 6260200000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 105,
+            "range_check_builtin": 9431,
+            "bitwise_builtin": 430
+          },
+          "n_memory_holes": 9885,
+          "n_steps": 115568
+        },
+        "actual_fee": 4113000000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 7331,
+            "bitwise_builtin": 341
+          },
+          "n_memory_holes": 8157,
+          "n_steps": 91864
+        },
+        "actual_fee": 3370400000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 105,
+            "range_check_builtin": 8930,
+            "bitwise_builtin": 425
+          },
+          "n_memory_holes": 9621,
+          "n_steps": 111249
+        },
+        "actual_fee": 4090100000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 7691,
+            "bitwise_builtin": 345
+          },
+          "n_memory_holes": 8369,
+          "n_steps": 95028
+        },
+        "actual_fee": 3387300000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 165,
+            "range_check_builtin": 19921,
+            "bitwise_builtin": 873
+          },
+          "n_memory_holes": 15738,
+          "n_steps": 215945
+        },
+        "actual_fee": 7104700000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 175,
+            "range_check_builtin": 21906,
+            "bitwise_builtin": 972
+          },
+          "n_memory_holes": 16641,
+          "n_steps": 239368
+        },
+        "actual_fee": 7473100000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 765,
+            "range_check_builtin": 96837,
+            "bitwise_builtin": 6124
+          },
+          "n_memory_holes": 83330,
+          "n_steps": 1169060
+        },
+        "actual_fee": 38683600000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7981,
+            "bitwise_builtin": 337
+          },
+          "n_memory_holes": 8650,
+          "n_steps": 97213
+        },
+        "actual_fee": 4013800000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 765,
+            "range_check_builtin": 87804,
+            "bitwise_builtin": 5947
+          },
+          "n_memory_holes": 78725,
+          "n_steps": 1089856
+        },
+        "actual_fee": 38457000000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 8230,
+            "bitwise_builtin": 334
+          },
+          "n_memory_holes": 8716,
+          "n_steps": 99296
+        },
+        "actual_fee": 4024500000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 81,
+            "range_check_builtin": 9065,
+            "bitwise_builtin": 423
+          },
+          "n_memory_holes": 9377,
+          "n_steps": 111417
+        },
+        "actual_fee": 3588000000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7769,
+            "bitwise_builtin": 331
+          },
+          "n_memory_holes": 8430,
+          "n_steps": 95168
+        },
+        "actual_fee": 4002500000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 81,
+            "range_check_builtin": 8753,
+            "bitwise_builtin": 417
+          },
+          "n_memory_holes": 9218,
+          "n_steps": 108593
+        },
+        "actual_fee": 3573100000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 7626,
+            "bitwise_builtin": 328
+          },
+          "n_memory_holes": 8349,
+          "n_steps": 94056
+        },
+        "actual_fee": 3996500000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 765,
+            "range_check_builtin": 96837,
+            "bitwise_builtin": 6124
+          },
+          "n_memory_holes": 83330,
+          "n_steps": 1169060
+        },
+        "actual_fee": 38683600000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7520,
+            "bitwise_builtin": 324
+          },
+          "n_memory_holes": 8207,
+          "n_steps": 92704
+        },
+        "actual_fee": 3620300000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 765,
+            "range_check_builtin": 87804,
+            "bitwise_builtin": 5947
+          },
+          "n_memory_holes": 78725,
+          "n_steps": 1089856
+        },
+        "actual_fee": 38457000000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7880,
+            "bitwise_builtin": 328
+          },
+          "n_memory_holes": 8419,
+          "n_steps": 95868
+        },
+        "actual_fee": 3637200000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 8922,
+            "bitwise_builtin": 354
+          },
+          "n_memory_holes": 8712,
+          "n_steps": 103940
+        },
+        "actual_fee": 4047700000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 81,
+            "range_check_builtin": 11345,
+            "bitwise_builtin": 468
+          },
+          "n_memory_holes": 9952,
+          "n_steps": 128771
+        },
+        "actual_fee": 3677600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 9825,
+            "bitwise_builtin": 435
+          },
+          "n_memory_holes": 10439,
+          "n_steps": 120504
+        },
+        "actual_fee": 5615500000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 729,
+            "range_check_builtin": 101657,
+            "bitwise_builtin": 6074
+          },
+          "n_memory_holes": 89268,
+          "n_steps": 1173073
+        },
+        "actual_fee": 37150800000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 9254,
+            "bitwise_builtin": 428
+          },
+          "n_memory_holes": 10089,
+          "n_steps": 115614
+        },
+        "actual_fee": 5589300000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 729,
+            "range_check_builtin": 92793,
+            "bitwise_builtin": 5900
+          },
+          "n_memory_holes": 84741,
+          "n_steps": 1095581
+        },
+        "actual_fee": 36928000000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 9227,
+            "bitwise_builtin": 427
+          },
+          "n_memory_holes": 9983,
+          "n_steps": 115281
+        },
+        "actual_fee": 5587100000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 45,
+            "range_check_builtin": 7439,
+            "bitwise_builtin": 322
+          },
+          "n_memory_holes": 7707,
+          "n_steps": 89619
+        },
+        "actual_fee": 1994400000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 8915,
+            "bitwise_builtin": 421
+          },
+          "n_memory_holes": 9824,
+          "n_steps": 112457
+        },
+        "actual_fee": 5572100000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 45,
+            "range_check_builtin": 7296,
+            "bitwise_builtin": 319
+          },
+          "n_memory_holes": 7626,
+          "n_steps": 88507
+        },
+        "actual_fee": 1988400000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 9502,
+            "bitwise_builtin": 422
+          },
+          "n_memory_holes": 10063,
+          "n_steps": 117649
+        },
+        "actual_fee": 5599300000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 729,
+            "range_check_builtin": 101657,
+            "bitwise_builtin": 6074
+          },
+          "n_memory_holes": 89268,
+          "n_steps": 1173073
+        },
+        "actual_fee": 37150800000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 9001,
+            "bitwise_builtin": 417
+          },
+          "n_memory_holes": 9799,
+          "n_steps": 113330
+        },
+        "actual_fee": 5576400000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 729,
+            "range_check_builtin": 92793,
+            "bitwise_builtin": 5900
+          },
+          "n_memory_holes": 84741,
+          "n_steps": 1095581
+        },
+        "actual_fee": 36928000000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 45,
+            "range_check_builtin": 8592,
+            "bitwise_builtin": 345
+          },
+          "n_memory_holes": 7989,
+          "n_steps": 98391
+        },
+        "actual_fee": 2039600000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 133,
+            "range_check_builtin": 11507,
+            "bitwise_builtin": 472
+          },
+          "n_memory_holes": 10558,
+          "n_steps": 132635
+        },
+        "actual_fee": 5676700000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 779,
+            "range_check_builtin": 181827,
+            "bitwise_builtin": 7342
+          },
+          "n_memory_holes": 112486,
+          "n_steps": 1815251
+        },
+        "actual_fee": 40930800000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 69,
+            "range_check_builtin": 8024,
+            "bitwise_builtin": 368
+          },
+          "n_memory_holes": 8751,
+          "n_steps": 96800
+        },
+        "actual_fee": 2534600000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 7599,
+            "bitwise_builtin": 277
+          },
+          "n_memory_holes": 8223,
+          "n_steps": 91466
+        },
+        "actual_fee": 3368800000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 110,
+            "range_check_builtin": 10594,
+            "bitwise_builtin": 493
+          },
+          "n_memory_holes": 10555,
+          "n_steps": 124993
+        },
+        "actual_fee": 4284100000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 779,
+            "range_check_builtin": 181827,
+            "bitwise_builtin": 7342
+          },
+          "n_memory_holes": 112486,
+          "n_steps": 1815251
+        },
+        "actual_fee": 40930800000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 7599,
+            "bitwise_builtin": 277
+          },
+          "n_memory_holes": 8223,
+          "n_steps": 91466
+        },
+        "actual_fee": 3368800000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 239,
+            "range_check_builtin": 49932,
+            "bitwise_builtin": 1897
+          },
+          "n_memory_holes": 32423,
+          "n_steps": 500113
+        },
+        "actual_fee": 11807600000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 69,
+            "range_check_builtin": 8024,
+            "bitwise_builtin": 368
+          },
+          "n_memory_holes": 8751,
+          "n_steps": 96800
+        },
+        "actual_fee": 2534600000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 7599,
+            "bitwise_builtin": 277
+          },
+          "n_memory_holes": 8226,
+          "n_steps": 91463
+        },
+        "actual_fee": 3368800000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 110,
+            "range_check_builtin": 10594,
+            "bitwise_builtin": 493
+          },
+          "n_memory_holes": 10555,
+          "n_steps": 124993
+        },
+        "actual_fee": 4284100000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 791,
+            "range_check_builtin": 249478,
+            "bitwise_builtin": 8735
+          },
+          "n_memory_holes": 130455,
+          "n_steps": 2337305
+        },
+        "actual_fee": 44123100000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 779,
+            "range_check_builtin": 246688,
+            "bitwise_builtin": 8611
+          },
+          "n_memory_holes": 128729,
+          "n_steps": 2308848
+        },
+        "actual_fee": 43480000000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 69,
+            "range_check_builtin": 6740,
+            "bitwise_builtin": 164
+          },
+          "n_memory_holes": 6298,
+          "n_steps": 79846
+        },
+        "actual_fee": 2437600000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 779,
+            "range_check_builtin": 107984,
+            "bitwise_builtin": 6371
+          },
+          "n_memory_holes": 93348,
+          "n_steps": 1261279
+        },
+        "actual_fee": 39244500000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 110,
+            "range_check_builtin": 9586,
+            "bitwise_builtin": 464
+          },
+          "n_memory_holes": 10412,
+          "n_steps": 117742
+        },
+        "actual_fee": 4247100000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 8457,
+            "bitwise_builtin": 353
+          },
+          "n_memory_holes": 9019,
+          "n_steps": 101139
+        },
+        "actual_fee": 3421100000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 779,
+            "range_check_builtin": 107984,
+            "bitwise_builtin": 6371
+          },
+          "n_memory_holes": 93348,
+          "n_steps": 1261279
+        },
+        "actual_fee": 39244500000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 8457,
+            "bitwise_builtin": 353
+          },
+          "n_memory_holes": 9019,
+          "n_steps": 101139
+        },
+        "actual_fee": 3421100000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 69,
+            "range_check_builtin": 6740,
+            "bitwise_builtin": 164
+          },
+          "n_memory_holes": 6298,
+          "n_steps": 79846
+        },
+        "actual_fee": 2437600000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 239,
+            "range_check_builtin": 29349,
+            "bitwise_builtin": 1621
+          },
+          "n_memory_holes": 26873,
+          "n_steps": 345225
+        },
+        "actual_fee": 11132500000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 110,
+            "range_check_builtin": 9586,
+            "bitwise_builtin": 464
+          },
+          "n_memory_holes": 10412,
+          "n_steps": 117742
+        },
+        "actual_fee": 4247100000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 88,
+            "range_check_builtin": 8457,
+            "bitwise_builtin": 353
+          },
+          "n_memory_holes": 9019,
+          "n_steps": 101139
+        },
+        "actual_fee": 3421100000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 791,
+            "range_check_builtin": 176135,
+            "bitwise_builtin": 7772
+          },
+          "n_memory_holes": 111543,
+          "n_steps": 1787123
+        },
+        "actual_fee": 41527400000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 779,
+            "range_check_builtin": 173233,
+            "bitwise_builtin": 7644
+          },
+          "n_memory_holes": 109846,
+          "n_steps": 1758129
+        },
+        "actual_fee": 40874000000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 12692,
+            "bitwise_builtin": 452
+          },
+          "n_memory_holes": 10641,
+          "n_steps": 139691
+        },
+        "actual_fee": 4728300000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7520,
+            "bitwise_builtin": 324
+          },
+          "n_memory_holes": 8206,
+          "n_steps": 92705
+        },
+        "actual_fee": 3620300000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 8991,
+            "bitwise_builtin": 403
+          },
+          "n_memory_holes": 9398,
+          "n_steps": 111096
+        },
+        "actual_fee": 4579100000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 10373,
+            "bitwise_builtin": 372
+          },
+          "n_memory_holes": 9097,
+          "n_steps": 114886
+        },
+        "actual_fee": 3735700000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 12691,
+            "bitwise_builtin": 452
+          },
+          "n_memory_holes": 10647,
+          "n_steps": 139658
+        },
+        "actual_fee": 4728200000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 7519,
+            "bitwise_builtin": 324
+          },
+          "n_memory_holes": 8212,
+          "n_steps": 92672
+        },
+        "actual_fee": 3620200000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 8990,
+            "bitwise_builtin": 403
+          },
+          "n_memory_holes": 9404,
+          "n_steps": 111063
+        },
+        "actual_fee": 4579000000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 10372,
+            "bitwise_builtin": 372
+          },
+          "n_memory_holes": 9103,
+          "n_steps": 114853
+        },
+        "actual_fee": 3735500000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 11308,
+            "bitwise_builtin": 271
+          },
+          "n_memory_holes": 8111,
+          "n_steps": 120920
+        },
+        "actual_fee": 3758300000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 71,
+            "range_check_builtin": 6166,
+            "bitwise_builtin": 140
+          },
+          "n_memory_holes": 5677,
+          "n_steps": 74019
+        },
+        "actual_fee": 2650800000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 8991,
+            "bitwise_builtin": 403
+          },
+          "n_memory_holes": 9398,
+          "n_steps": 111096
+        },
+        "actual_fee": 4579100000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 90,
+            "range_check_builtin": 10373,
+            "bitwise_builtin": 372
+          },
+          "n_memory_holes": 9097,
+          "n_steps": 114884
+        },
+        "actual_fee": 3735700000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 97,
+            "range_check_builtin": 10049,
+            "bitwise_builtin": 376
+          },
+          "n_memory_holes": 8998,
+          "n_steps": 112533
+        },
+        "actual_fee": 4092100000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 109,
+            "range_check_builtin": 12859,
+            "bitwise_builtin": 480
+          },
+          "n_memory_holes": 10543,
+          "n_steps": 140728
+        },
+        "actual_fee": 4733000000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 815,
+            "range_check_builtin": 183748,
+            "bitwise_builtin": 7468
+          },
+          "n_memory_holes": 114553,
+          "n_steps": 1839196
+        },
+        "actual_fee": 42537200000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 131,
+            "range_check_builtin": 9917,
+            "bitwise_builtin": 458
+          },
+          "n_memory_holes": 10794,
+          "n_steps": 121082
+        },
+        "actual_fee": 5374700000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 815,
+            "range_check_builtin": 183748,
+            "bitwise_builtin": 7468
+          },
+          "n_memory_holes": 114553,
+          "n_steps": 1839196
+        },
+        "actual_fee": 42537200000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 131,
+            "range_check_builtin": 9917,
+            "bitwise_builtin": 458
+          },
+          "n_memory_holes": 10794,
+          "n_steps": 121082
+        },
+        "actual_fee": 5374700000000000
+      }
+    },
+    {
+      "swapExact0For1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 275,
+            "range_check_builtin": 51853,
+            "bitwise_builtin": 2023
+          },
+          "n_memory_holes": 34490,
+          "n_steps": 524058
+        },
+        "actual_fee": 13413900000000000
+      }
+    },
+    {
+      "swap0ForExact1": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 131,
+            "range_check_builtin": 9917,
+            "bitwise_builtin": 458
+          },
+          "n_memory_holes": 10797,
+          "n_steps": 121079
+        },
+        "actual_fee": 5374700000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 827,
+            "range_check_builtin": 252526,
+            "bitwise_builtin": 8883
+          },
+          "n_memory_holes": 132809,
+          "n_steps": 2369839
+        },
+        "actual_fee": 45773800000000000
+      }
+    },
+    {
+      "swapToLowerSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 815,
+            "range_check_builtin": 249736,
+            "bitwise_builtin": 8759
+          },
+          "n_memory_holes": 131083,
+          "n_steps": 2341382
+        },
+        "actual_fee": 45130700000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 815,
+            "range_check_builtin": 109808,
+            "bitwise_builtin": 6511
+          },
+          "n_memory_holes": 95307,
+          "n_steps": 1284986
+        },
+        "actual_fee": 40892500000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 131,
+            "range_check_builtin": 10121,
+            "bitwise_builtin": 487
+          },
+          "n_memory_holes": 10918,
+          "n_steps": 124109
+        },
+        "actual_fee": 5390400000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 815,
+            "range_check_builtin": 109808,
+            "bitwise_builtin": 6511
+          },
+          "n_memory_holes": 95307,
+          "n_steps": 1284986
+        },
+        "actual_fee": 40892500000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 131,
+            "range_check_builtin": 10121,
+            "bitwise_builtin": 487
+          },
+          "n_memory_holes": 10918,
+          "n_steps": 124109
+        },
+        "actual_fee": 5390400000000000
+      }
+    },
+    {
+      "swapExact1For0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 275,
+            "range_check_builtin": 31173,
+            "bitwise_builtin": 1761
+          },
+          "n_memory_holes": 28832,
+          "n_steps": 368932
+        },
+        "actual_fee": 12780500000000000
+      }
+    },
+    {
+      "swap1ForExact0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 131,
+            "range_check_builtin": 10121,
+            "bitwise_builtin": 487
+          },
+          "n_memory_holes": 10918,
+          "n_steps": 124109
+        },
+        "actual_fee": 5390400000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 827,
+            "range_check_builtin": 179086,
+            "bitwise_builtin": 7934
+          },
+          "n_memory_holes": 113789,
+          "n_steps": 1819419
+        },
+        "actual_fee": 43203600000000000
+      }
+    },
+    {
+      "swapToHigherSqrtPrice": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 815,
+            "range_check_builtin": 176184,
+            "bitwise_builtin": 7806
+          },
+          "n_memory_holes": 112092,
+          "n_steps": 1790425
+        },
+        "actual_fee": 42550100000000000
+      }
+    }
+  ],
+  "warp_output/contracts/test/TestUniswapV3Router__WC__TestUniswapV3Router.cairo": [
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 236
+        },
+        "actual_fee": 268300000000000
+      }
+    }
+  ],
+  "warp_output/contracts/test/MockTimeUniswapV3PoolDeployer__WC__MockTimeUniswapV3PoolDeployer.cairo": [
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    },
+    {
+      "constructor": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "range_check_builtin": 3
+          },
+          "n_memory_holes": 5,
+          "n_steps": 258
+        },
+        "actual_fee": 513400000000000
+      }
+    },
+    {
+      "deploy": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 26,
+            "range_check_builtin": 4829,
+            "bitwise_builtin": 3224
+          },
+          "n_memory_holes": 3675,
+          "n_steps": 74323
+        },
+        "actual_fee": 7431600000000000
+      }
+    }
+  ],
+  "warp_output/contracts/test/MockTimeUniswapV3Pool__WC__MockTimeUniswapV3Pool.cairo": [
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    },
+    {
+      "slot0": {
+        "execution_resources": {
+          "builtin_instance_counter": {
+            "pedersen_builtin": 7,
+            "range_check_builtin": 23
+          },
+          "n_memory_holes": 77,
+          "n_steps": 720
+        },
+        "actual_fee": 145900000000000
+      }
+    }
+  ]
+}
